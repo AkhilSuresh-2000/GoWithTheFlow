@@ -6,6 +6,6 @@ Once the user clicks on spin the wheel. The user is presented with a spinning wh
 This is my first project with Android. I am happy to hear suggestions.
 
 Planned Future Updates
-Adding location based suggestions
-Ability to choose between meat based and plant based 
+1)Adding location based suggestions
+2)Ability to choose between meat based and plant based 
 and much more
